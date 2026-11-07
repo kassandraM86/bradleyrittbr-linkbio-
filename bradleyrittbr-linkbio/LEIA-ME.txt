@@ -1,0 +1,19 @@
+BRADLEY RITTMANN BRASIL — LINK NA BIO
+
+Arquivos:
+- index.html: estrutura e links da página
+- style.css: visual, cores, responsividade e animações
+- assets/banner-bradley.jpg: arte enviada para o banner
+
+Como publicar:
+1. Extraia o ZIP.
+2. Envie index.html, style.css e a pasta assets para o mesmo diretório do seu site/Netlify.
+3. Mantenha a pasta assets junto dos dois arquivos.
+4. Publique o diretório.
+
+Os links de Instagram, Quizur, X, WhatsApp e Bradley Magazine já estão configurados.
+O avatar "BR" é tipográfico porque não foi enviada uma foto de perfil separada.
+
+
+FOTO DE PERFIL
+A foto usada no círculo do cabeçalho está em assets/foto-perfil-bradley.png. Para trocar futuramente, substitua esse arquivo mantendo o mesmo nome.
